@@ -1,0 +1,5000 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "Talk is cheap. Show me the code.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 2,
+      "quote": "Programming is not about what you know; it's about what you can figure out.",
+      "author": "Chris Pine"
+    },
+    {
+      "id": 3,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 4,
+      "quote": "Coding is like writing, except you can never erase a mistake.",
+      "author": "Unknown"
+    },
+    {
+      "id": 5,
+      "quote": "Don't worry if it doesn't work right. If everything did, you'd be out of a job.",
+      "author": "Mosher's Law of Software Engineering"
+    },
+
+    {
+      "id": 6,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 7,
+      "quote": "Premature optimization is the root of all evil (or at least most of it) in programming.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 8,
+      "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler"
+    },
+    {
+      "id": 9,
+      "quote": "Programming isn't about what you know; it's about what you can learn.",
+      "author": "Unknown"
+    },
+    {
+      "id": 10,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 11,
+      "quote": "Real programmers count from 0.",
+      "author": "Unknown"
+    },
+    {
+      "id": 12,
+      "quote": "Programming is the art of telling another human what one wants the computer to do.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 13,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 14,
+      "quote": "Simplicity is the soul of efficiency.",
+      "author": "Austin Freeman"
+    },
+    {
+      "id": 15,
+      "quote": "Perl – The only language that looks the same before and after RSA encryption.",
+      "author": "Keith Bostic"
+    },
+    {
+      "id": 16,
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "id": 17,
+      "quote": "Programming can be fun, so can cryptography; however, they should not be combined.",
+      "author": "Kreitzberg and Shneiderman"
+    },
+    {
+      "id": 18,
+      "quote": "The most disastrous thing you can ever learn is your first programming language.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 19,
+      "quote": "If you think your users are idiots, only idiots will use it.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 20,
+      "quote": "Good code is its own best documentation.",
+      "author": "Steve McConnell"
+    },
+    {
+      "id": 21,
+      "quote": "Don't comment bad code - rewrite it.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 22,
+      "quote": "Weeks of coding can save you hours of planning.",
+      "author": "Unknown"
+    },
+    {
+      "id": 23,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 24,
+      "quote": "It's not a bug - it's an undocumented feature.",
+      "author": "Unknown"
+    },
+    {
+      "id": 25,
+      "quote": "Programming is like sex: one mistake and you have to support it for the rest of your life.",
+      "author": "Michael Sinz"
+    },
+    {
+      "id": 26,
+      "quote": "In software, the best is the enemy of the good.",
+      "author": "Voltaire"
+    },
+    {
+      "id": 27,
+      "quote": "Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.",
+      "author": "Larry Wall"
+    },
+    {
+      "id": 28,
+      "quote": "Deleted code is debugged code.",
+      "author": "Jeff Sickel"
+    },
+    {
+      "id": 29,
+      "quote": "It's all talk until the code runs.",
+      "author": "Ward Cunningham"
+    },
+    {
+      "id": 30,
+      "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+      "author": "Bill Gates"
+    },
+    {
+      "id": 31,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 32,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 33,
+      "quote": "It's not a bug. It's an undocumented feature!",
+      "author": "Anonymous"
+    },
+    {
+      "id": 34,
+      "quote": "Programmers are in a race with the Universe to create bigger and better idiot-proof programs, while the Universe is trying to create bigger and better idiots. So far, the Universe is winning.",
+      "author": "Rich Cook"
+    },
+    {
+      "id": 35,
+      "quote": "Software and cathedrals are much the same – first we build them, then we pray.",
+      "author": "Sam Redwine"
+    },
+    {
+      "id": 36,
+      "quote": "The best thing about a boolean is even if you are wrong, you are only off by a bit.",
+      "author": "Anonymous"
+    },
+    {
+      "id": 37,
+      "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+      "author": "Edward V Berard"
+    },
+    {
+      "id": 38,
+      "quote": "Programming can be fun, and so can cryptography; however, they should not be combined.",
+      "author": "Kreitzberg and Shneiderman"
+    },
+    {
+      "id": 39,
+      "quote": "Code is like humor. When you have to explain it, it’s bad.",
+      "author": "Cory House"
+    },
+    {
+      "id": 40,
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "id": 41,
+      "quote": "Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.",
+      "author": "Eagleson’s Law"
+    },
+    {
+      "id": 42,
+      "quote": "Java is to JavaScript what car is to carpet.",
+      "author": "Chris Heilmann"
+    },
+    {
+      "id": 43,
+      "quote": "The computer was born to solve problems that did not exist before.",
+      "author": "Bill Gates"
+    },
+    {
+      "id": 44,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 45,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 46,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 47,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 48,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 49,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 50,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 51,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 52,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 53,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 54,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 55,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 56,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 57,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 58,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 59,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 60,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 61,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 62,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 63,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 64,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 65,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 66,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 67,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 68,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 69,
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 70,
+      "quote": "Sometimes it pays to stay in bed in Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 71,
+      "quote": "It’s not a bug. It’s an undocumented feature!",
+      "author": "Anonymous"
+    },
+    {
+      "id": 72,
+      "quote": "Programming can be fun, and so can cryptography; however, they should not be combined.",
+      "author": "Kreitzberg and Shneiderman"
+    },
+    {
+      "id": 73,
+      "quote": "Code is like humor. When you have to explain it, it’s bad.",
+      "author": "Cory House"
+    },
+    {
+      "id": 74,
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "id": 75,
+      "quote": "Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.",
+      "author": "Eagleson’s Law"
+    },
+    {
+      "id": 76,
+      "quote": "Java is to JavaScript what car is to carpet.",
+      "author": "Chris Heilmann"
+    },
+    {
+      "id": 77,
+      "quote": "The computer was born to solve problems that did not exist before.",
+      "author": "Bill Gates"
+    },
+    {
+      "id": 78,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 79,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 80,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 81,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 82,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 83,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 84,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 85,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 86,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 87,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 88,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 89,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 90,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 91,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 92,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 93,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 94,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 95,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 96,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 97,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 98,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 99,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 100,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 101,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 102,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 103,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 104,
+      "quote": "It is not the language that makes programs appear simple. It is the programmer that make the language appear simple!",
+      "author": "Robert C. Martin"
+    },
+    {
+      "id": 105,
+      "quote": "If you think math is hard, try web design.",
+      "author": "Trish Parr"
+    },
+    {
+      "id": 106,
+      "quote": "Programming is the art of adding bugs to an empty text file.",
+      "author": "Unknown"
+    },
+    {
+      "id": 107,
+      "quote": "In order to understand recursion, one must first understand recursion.",
+      "author": "Anonymous"
+    },
+    {
+      "id": 108,
+      "quote": "A misplaced decimal point will always end up where it will do the greatest damage.",
+      "author": "Unknown"
+    },
+    {
+      "id": 109,
+      "quote": "Software undergoes beta testing shortly before it's released. Beta is Latin for 'still doesn't work.'",
+      "author": "Unknown"
+    },
+    {
+      "id": 110,
+      "quote": "I'm not a great programmer; I'm just a good programmer with great habits.",
+      "author": "Kent Beck"
+    },
+    {
+      "id": 111,
+      "quote": "Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.",
+      "author": "Larry Wall"
+    },
+    {
+      "id": 112,
+      "quote": "You can't have great software without a great team, and most software teams behave like dysfunctional families.",
+      "author": "Jim McCarthy"
+    },
+    {
+      "id": 113,
+      "quote": "Always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.",
+      "author": "John Woods"
+    },
+    {
+      "id": 114,
+      "quote": "If you automate a mess, you get an automated mess.",
+      "author": "Rod Michael"
+    },
+    {
+      "id": 115,
+      "quote": "One of my most productive days was throwing away 1000 lines of code.",
+      "author": "Ken Thompson"
+    },
+    {
+      "id": 116,
+      "quote": "Testing leads to failure, and failure leads to understanding.",
+      "author": "Burt Rutan"
+    },
+    {
+      "id": 117,
+      "quote": "Copy and paste is a design error.",
+      "author": "David Parnas"
+    },
+    {
+      "id": 118,
+      "quote": "The sooner you start to code, the longer the program will take.",
+      "author": "Roy Carlson"
+    },
+    {
+      "id": 119,
+      "quote": "Simplicity is the soul of efficiency.",
+      "author": "Austin Freeman"
+    },
+    {
+      "id": 120,
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 121,
+      "quote": "Programming is the art of debugging a blank sheet of paper.",
+      "author": "Unknown"
+    },
+    {
+      "id": 122,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 123,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 124,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 125,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 126,
+      "quote": "If you don’t understand the code you are maintaining, you are not a maintenance programmer; you are an exterminator.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 127,
+      "quote": "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.",
+      "author": "Antoine de Saint-Exupéry"
+    },
+    {
+      "id": 128,
+      "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+      "author": "Rick Osborne"
+    },
+    {
+      "id": 129,
+      "quote": "Before you marry a person, you should first make them use a computer with slow internet service to see who they really are.",
+      "author": "Will Ferrell"
+    },
+    {
+      "id": 130,
+      "quote": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+      "author": "Bjarne Stroustrup"
+    },
+    {
+      "id": 131,
+      "quote": "Weeks of coding can save you hours of planning.",
+      "author": "Unknown"
+    },
+    {
+      "id": 132,
+      "quote": "You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.",
+      "author": "John Romero"
+    },
+    {
+      "id": 133,
+      "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+      "author": "Edward V Berard"
+    },
+    {
+      "id": 134,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 135,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 136,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 137,
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "id": 138,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 139,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 140,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 141,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 142,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 143,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 144,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 145,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 146,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 147,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 148,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 149,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 150,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 151,
+      "quote": "If you don’t understand the code you are maintaining, you are not a maintenance programmer; you are an exterminator.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 152,
+      "quote": "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.",
+      "author": "Antoine de Saint-Exupéry"
+    },
+    {
+      "id": 153,
+      "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+      "author": "Rick Osborne"
+    },
+    {
+      "id": 154,
+      "quote": "Before you marry a person, you should first make them use a computer with slow internet service to see who they really are.",
+      "author": "Will Ferrell"
+    },
+    {
+      "id": 155,
+      "quote": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+      "author": "Bjarne Stroustrup"
+    },
+    {
+      "id": 156,
+      "quote": "Weeks of coding can save you hours of planning.",
+      "author": "Unknown"
+    },
+    {
+      "id": 157,
+      "quote": "You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.",
+      "author": "John Romero"
+    },
+    {
+      "id": 158,
+      "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+      "author": "Edward V Berard"
+    },
+    {
+      "id": 159,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 160,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 161,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 162,
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "id": 163,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 164,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 165,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 166,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 167,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 168,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 169,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 170,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 171,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 172,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 173,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 174,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 175,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 176,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 177,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 178,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 179,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 180,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 181,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 182,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 183,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 184,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 185,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 186,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 187,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 188,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 189,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 190,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 191,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 192,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 193,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 194,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 195,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 196,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 197,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 198,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 199,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 200,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 201,
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 202,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 203,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 204,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 205,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 206,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 207,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 208,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 209,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 210,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 211,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 212,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 213,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 214,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 215,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 216,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 217,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 218,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 219,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 220,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 221,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 222,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 223,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 224,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 225,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 226,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 227,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 228,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 229,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 230,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 231,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 232,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 233,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 234,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 235,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 236,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 237,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 238,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 239,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 240,
+      "quote": "A program that does not produce incorrect output and terminates successfully is said to be 'bug free.'",
+      "author": "Lindsay Errington"
+    },
+    {
+      "id": 241,
+      "quote": "Make it work, make it right, make it fast.",
+      "author": "Kent Beck"
+    },
+    {
+      "id": 242,
+      "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+      "author": "Rick Osborne"
+    },
+    {
+      "id": 243,
+      "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler"
+    },
+    {
+      "id": 244,
+      "quote": "Optimism is an occupational hazard of programming: feedback is the treatment.",
+      "author": "Kent Beck"
+    },
+    {
+      "id": 245,
+      "quote": "When in doubt, use brute force.",
+      "author": "Ken Thompson"
+    },
+    {
+      "id": 246,
+      "quote": "If you can't explain it simply, you don't understand it well enough.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 247,
+      "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+      "author": "Bill Gates"
+    },
+    {
+      "id": 248,
+      "quote": "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.",
+      "author": "Eagleson's Law"
+    },
+    {
+      "id": 249,
+      "quote": "There are only two hard things in Computer Science: cache invalidation and naming things.",
+      "author": "Phil Karlton"
+    },
+    {
+      "id": 250,
+      "quote": "The best way to get a project done faster is to start sooner.",
+      "author": "Jim Highsmith"
+    },
+    {
+      "id": 251,
+      "quote": "The most important single aspect of software development is to be clear about what you are trying to build.",
+      "author": "Bjarne Stroustrup"
+    },
+    {
+      "id": 252,
+      "quote": "Code is like humor. When you have to explain it, it’s bad.",
+      "author": "Cory House"
+    },
+    {
+      "id": 253,
+      "quote": "The best way to predict the future is to invent it.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 254,
+      "quote": "To iterate is human, to recurse divine.",
+      "author": "L. Peter Deutsch"
+    },
+    {
+      "id": 255,
+      "quote": "The computer was born to solve problems that did not exist before.",
+      "author": "Bill Gates"
+    },
+    {
+      "id": 256,
+      "quote": "Any sufficiently advanced bug is indistinguishable from a feature.",
+      "author": "Rich Kulawiec"
+    },
+    {
+      "id": 257,
+      "quote": "In software, the most beautiful code is the one that does nothing.",
+      "author": "Jean-Paul Sartre"
+    },
+    {
+      "id": 258,
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "id": 259,
+      "quote": "Copy and paste is a design error.",
+      "author": "David Parnas"
+    },
+    {
+      "id": 260,
+      "quote": "The sooner you start to code, the longer the program will take.",
+      "author": "Roy Carlson"
+    },
+    {
+      "id": 261,
+      "quote": "Simplicity is the soul of efficiency.",
+      "author": "Austin Freeman"
+    },
+    {
+      "id": 262,
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 263,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 264,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 265,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 266,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 267,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 268,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 269,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 270,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 271,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 272,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 273,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 274,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 275,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 276,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 277,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 278,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 279,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 280,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 281,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 282,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 283,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 284,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 285,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 286,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 287,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 288,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 289,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 290,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 291,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 292,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 293,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 294,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 295,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 296,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 297,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 298,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 299,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 300,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 301,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 302,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 303,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 304,
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "id": 305,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 306,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 307,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 308,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 309,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 310,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 311,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 312,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 313,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 314,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 315,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 316,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 317,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 318,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 319,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 320,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 321,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 322,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 323,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 324,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 325,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 326,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 327,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 328,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 329,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 330,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 331,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 332,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 333,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 334,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 335,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 336,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 337,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 338,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 339,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 340,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 341,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 342,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 343,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 344,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 345,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 346,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 347,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 348,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 349,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 350,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 351,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 352,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 353,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 354,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 355,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 356,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 357,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 358,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 359,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 360,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 361,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 362,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 363,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 364,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 365,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 366,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 367,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 368,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 369,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 370,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 371,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 372,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 373,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 374,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 375,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 376,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 377,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 378,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 379,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 380,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 381,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 382,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 383,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 384,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 385,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 386,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 387,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 388,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 389,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 390,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 391,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 392,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 393,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 394,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 395,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 396,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 397,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 398,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 399,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 400,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 401,
+      "quote": "The most disastrous thing that you can ever learn is your first programming language.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 402,
+      "quote": "The best code is no code at all.",
+      "author": "Jeff Atwood"
+    },
+    {
+      "id": 403,
+      "quote": "You can't have great software without a great team, and most software is built by teams.",
+      "author": "Neal Ford"
+    },
+    {
+      "id": 404,
+      "quote": "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.",
+      "author": "Eagleson's Law"
+    },
+    {
+      "id": 405,
+      "quote": "Premature optimization is the root of all evil.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 406,
+      "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+      "author": "Bill Gates"
+    },
+    {
+      "id": 407,
+      "quote": "Nine people can't make a baby in a month.",
+      "author": "Fred Brooks"
+    },
+    {
+      "id": 408,
+      "quote": "Programming is the art of telling another human what one wants the computer to do.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 409,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 410,
+      "quote": "Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the second law of thermodynamics; i.e., it always increases.",
+      "author": "Norman Augustine"
+    },
+    {
+      "id": 411,
+      "quote": "Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.",
+      "author": "Larry Wall"
+    },
+    {
+      "id": 412,
+      "quote": "I'm not a great programmer; I'm just a good programmer with great habits.",
+      "author": "Kent Beck"
+    },
+    {
+      "id": 413,
+      "quote": "You should name a variable using the same care with which you name a first-born child.",
+      "author": "Jim Coplien"
+    },
+    {
+      "id": 414,
+      "quote": "When someone says, 'I want a programming language in which I need only say what I wish done,' give him a lollipop.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 415,
+      "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler"
+    },
+    {
+      "id": 416,
+      "quote": "The key to performance is elegance, not battalions of special cases.",
+      "author": "Jon Bentley"
+    },
+    {
+      "id": 417,
+      "quote": "Software craftsmanship is the physical manifestation of pride in one's work.",
+      "author": "Sandi Metz"
+    },
+    {
+      "id": 418,
+      "quote": "The most important thing in the programming language is the name. A language will not succeed without a good name. I have recently invented a very good name and now I am looking for a suitable language.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 419,
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "id": 420,
+      "quote": "Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the second law of thermodynamics; i.e., it always increases.",
+      "author": "Norman Augustine"
+    },
+    {
+      "id": 421,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 422,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 423,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 424,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 425,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 426,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 427,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 428,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 429,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 430,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 431,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 432,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 433,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 434,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 435,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 436,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 437,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 438,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 439,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 440,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 441,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 442,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 443,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 444,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 445,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 446,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 447,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 448,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 449,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 450,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 451,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 452,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 453,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 454,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 455,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 456,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 457,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 458,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 459,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 460,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 461,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 462,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 463,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 464,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 465,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 466,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 467,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 468,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 469,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 470,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 471,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 472,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 473,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 474,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 475,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 476,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 477,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 478,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 479,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 480,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 481,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 482,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 483,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 484,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 485,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 486,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 487,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 488,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 489,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 490,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 491,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 492,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 493,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 494,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 495,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 496,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 497,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 498,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 499,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 500,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 501,
+      "quote": "The most disastrous thing that you can ever learn is your first programming language.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 502,
+      "quote": "The best code is no code at all.",
+      "author": "Jeff Atwood"
+    },
+    {
+      "id": 503,
+      "quote": "You can't have great software without a great team, and most software is built by teams.",
+      "author": "Neal Ford"
+    },
+    {
+      "id": 504,
+      "quote": "Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.",
+      "author": "Eagleson's Law"
+    },
+    {
+      "id": 505,
+      "quote": "Premature optimization is the root of all evil.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 506,
+      "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+      "author": "Bill Gates"
+    },
+    {
+      "id": 507,
+      "quote": "Nine people can't make a baby in a month.",
+      "author": "Fred Brooks"
+    },
+    {
+      "id": 508,
+      "quote": "Programming is the art of telling another human what one wants the computer to do.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 509,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 510,
+      "quote": "Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the second law of thermodynamics; i.e., it always increases.",
+      "author": "Norman Augustine"
+    },
+    {
+      "id": 511,
+      "quote": "Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.",
+      "author": "Larry Wall"
+    },
+    {
+      "id": 512,
+      "quote": "I'm not a great programmer; I'm just a good programmer with great habits.",
+      "author": "Kent Beck"
+    },
+    {
+      "id": 513,
+      "quote": "You should name a variable using the same care with which you name a first-born child.",
+      "author": "Jim Coplien"
+    },
+    {
+      "id": 514,
+      "quote": "When someone says, 'I want a programming language in which I need only say what I wish done,' give him a lollipop.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 515,
+      "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler"
+    },
+    {
+      "id": 516,
+      "quote": "The key to performance is elegance, not battalions of special cases.",
+      "author": "Jon Bentley"
+    },
+    {
+      "id": 517,
+      "quote": "Software craftsmanship is the physical manifestation of pride in one's work.",
+      "author": "Sandi Metz"
+    },
+    {
+      "id": 518,
+      "quote": "The most important thing in the programming language is the name. A language will not succeed without a good name. I have recently invented a very good name and now I am looking for a suitable language.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 519,
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "id": 520,
+      "quote": "Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the second law of thermodynamics; i.e., it always increases.",
+      "author": "Norman Augustine"
+    },
+    {
+      "id": 521,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 522,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 523,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 524,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 525,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 526,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 527,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 528,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 529,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 530,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 531,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 532,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 533,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 534,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 535,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 536,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 537,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 538,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 539,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 540,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 541,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 542,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 543,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 544,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 545,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 546,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 547,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 548,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 549,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 550,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 551,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 552,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 553,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 554,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 555,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 556,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 557,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 558,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 559,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 560,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 561,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 562,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 563,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 564,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 565,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 566,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 567,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 568,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 569,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 570,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 571,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 572,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 573,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 574,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 575,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 576,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 577,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 578,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 579,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 580,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 581,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 582,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 583,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 584,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 585,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 586,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 587,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 588,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 589,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 590,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 591,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 592,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 593,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 594,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 595,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 596,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 597,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 598,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 599,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 600,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 601,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 602,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 603,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 604,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 605,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 606,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 607,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 608,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 609,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 610,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 611,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 612,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 613,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 614,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 615,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 616,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 617,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 618,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 619,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 620,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 621,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 622,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 623,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 624,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 625,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 626,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 627,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 628,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 629,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 630,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 631,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 632,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 633,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 634,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 635,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 636,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 637,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 638,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 639,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 640,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 641,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 642,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 643,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 644,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 645,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 646,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 647,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 648,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 649,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 650,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 651,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 652,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 653,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 654,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 655,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 656,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 657,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 658,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 659,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 660,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 661,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 662,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 663,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 664,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 665,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 666,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 667,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 668,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 669,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 670,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 671,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 672,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 673,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 674,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 675,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 676,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 677,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 678,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 679,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 680,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 681,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 682,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 683,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 684,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 685,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 686,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 687,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 688,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 689,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 690,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 691,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 692,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 693,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 694,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 695,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 696,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 697,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 698,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 699,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 700,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 701,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 702,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 703,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 704,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 705,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 706,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 707,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 708,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 709,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 710,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 711,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 712,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 713,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 714,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 715,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 716,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 717,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 718,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 719,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 720,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 721,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 722,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 723,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 724,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 725,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 726,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 727,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 728,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 729,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 730,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 731,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 732,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 733,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 734,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 735,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 736,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 737,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 739,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 740,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 741,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 742,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 743,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 744,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 745,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 746,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 747,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 748,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 749,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 750,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 751,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 752,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 753,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 754,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 755,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 756,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 757,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 758,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 759,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 760,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 761,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 762,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 763,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 764,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 765,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 766,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 767,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 768,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 769,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 770,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 771,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 772,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 773,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 774,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 775,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 776,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 777,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 778,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 779,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 780,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 781,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 782,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 783,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 784,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 785,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 786,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 787,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 788,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 789,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 790,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 791,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 792,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 793,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 794,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 795,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 796,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 797,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 798,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 799,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 800,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 801,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 802,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 803,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 804,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 805,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 806,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 807,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 808,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 809,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 810,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 811,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 812,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 813,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 814,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 815,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 816,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 817,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 818,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 819,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 820,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 821,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 822,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 823,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 824,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 825,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 826,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 827,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 828,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 829,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 830,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 831,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 832,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 833,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 834,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 835,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 836,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 837,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 838,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 839,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 840,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 841,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 842,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 843,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 844,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 845,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 846,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 847,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 848,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 849,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 850,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 851,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 852,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 853,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 854,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 855,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 856,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 857,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 858,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 859,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 860,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 861,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 862,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 863,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 864,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 865,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 866,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 867,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 868,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 869,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 870,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 871,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 872,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 873,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 874,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 875,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 876,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 877,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 878,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 879,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 880,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 881,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 882,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 883,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 884,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 885,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 886,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 887,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 888,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 889,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 890,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 891,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 892,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 893,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 894,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 895,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 896,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 897,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 898,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 899,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 900,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 901,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 902,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 903,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 904,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 905,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 906,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 907,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 908,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 909,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 910,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 911,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 912,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 913,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 914,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 915,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 916,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 917,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 918,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 919,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 920,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 921,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 922,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 923,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 924,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 925,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 926,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 927,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 928,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 929,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 930,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 931,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 932,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 933,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 934,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 935,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 936,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 937,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 938,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 939,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 940,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 941,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 942,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 943,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 944,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 945,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 946,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 947,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 948,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 949,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 950,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 951,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 952,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 953,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 954,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 955,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 956,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 957,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 958,
+      "quote": "Debugging is like being the detective in a crime movie where you're also the murderer.",
+      "author": "Filipe Fortes"
+    },
+    {
+      "id": 959,
+      "quote": "If you optimize everything, you will always be unhappy.",
+      "author": "Donald Knuth"
+    },
+    {
+      "id": 960,
+      "quote": "It's hardware that makes a machine fast. It's software that makes a fast machine slow.",
+      "author": "Craig Bruce"
+    },
+    {
+      "id": 961,
+      "quote": "A program is never less than 90% complete, and never more than 95% complete.",
+      "author": "Terry Baker"
+    },
+    {
+      "id": 962,
+      "quote": "The difference between theory and practice is that in theory, there is no difference.",
+      "author": "Unknown"
+    },
+    {
+      "id": 963,
+      "quote": "Sometimes, the best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 964,
+      "quote": "Documentation is like sex; when it's good, it's very, very good, and when it's bad, it's better than nothing.",
+      "author": "Dick Brandon"
+    },
+    {
+      "id": 965,
+      "quote": "The best way to predict the future is to implement it.",
+      "author": "David Heinemeier Hansson"
+    },
+    {
+      "id": 966,
+      "quote": "Without requirements or design, programming is the art of adding bugs to an empty text file.",
+      "author": "Louis Srygley"
+    },
+    {
+      "id": 967,
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good.",
+      "author": "Martin LeBlanc"
+    },
+    {
+      "id": 968,
+      "quote": "Code never lies, comments sometimes do.",
+      "author": "Ron Jeffries"
+    },
+    {
+      "id": 969,
+      "quote": "If it's stupid and it works, it's still stupid, but you got it to work.",
+      "author": "Jason Fader"
+    },
+    {
+      "id": 970,
+      "quote": "Before software can be reusable, it first has to be usable.",
+      "author": "Ralph Johnson"
+    },
+    {
+      "id": 971,
+      "quote": "Software is like sex: it's better when it's free.",
+      "author": "Linus Torvalds"
+    },
+    {
+      "id": 972,
+      "quote": "Most software today is very much like an Egyptian pyramid, with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 973,
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 974,
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson"
+    },
+    {
+      "id": 975,
+      "quote": "Programming is not about typing, it's about thinking.",
+      "author": "Rich Hickey"
+    },
+    {
+      "id": 976,
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 977,
+      "quote": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb"
+    },
+    {
+      "id": 978,
+      "quote": "It’s not that I’m so smart, it’s just that I stay with problems longer.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 979,
+      "quote": "One man's crappy software is another man's full-time job.",
+      "author": "Jessica Gaston"
+    },
+    {
+      "id": 980,
+      "quote": "Controlling complexity is the essence of computer programming.",
+      "author": "Brian Kernighan"
+    },
+    {
+      "id": 981,
+      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.",
+      "author": "Dan Salomon"
+    },
+    {
+      "id": 982,
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L. A. van de Snepscheut"
+    },
+    {
+      "id": 983,
+      "quote": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "id": 984,
+      "quote": "The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.",
+      "author": "Tom Cargill"
+    },
+    {
+      "id": 985,
+      "quote": "It is easier to change the specification to fit the program than vice versa.",
+      "author": "Alan Perlis"
+    },
+    {
+      "id": 986,
+      "quote": "If you don't fail at least 90 percent of the time, you're not aiming high enough.",
+      "author": "Alan Kay"
+    },
+    {
+      "id": 987,
+      "quote": "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.",
+      "author": "Patrick McKenzie"
+    },
+    {
+      "id": 988,
+      "quote": "The best error message is the one that never shows up.",
+      "author": "Thomas Fuchs"
+    },
+    {
+      "id": 989,
+      "quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.",
+      "author": "Seymour Cray"
+    },
+    {
+      "id": 990,
+      "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+      "author": "John Osterhout"
+    },
+    {
+      "id": 991,
+      "quote": "If you don’t care about quality, you can meet any other requirement.",
+      "author": "Gerald M. Weinberg"
+    },
+    {
+      "id": 992,
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "id": 993,
+      "quote": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie"
+    },
+    {
+      "id": 994,
+      "quote": "A good programmer looks both ways before crossing a one-way street.",
+      "author": "Doug Linder"
+    },
+    {
+      "id": 995,
+      "quote": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "J. Osterhout"
+    },
+    {
+      "id": 996,
+      "quote": "Good code is like a good joke: it needs no explanation.",
+      "author": "Russ Olsen"
+    },
+    {
+      "id": 997,
+      "quote": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan J. Perlis"
+    },
+    {
+      "id": 998,
+      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+      "author": "C.A.R. Hoare"
+    },
+    {
+      "id": 999,
+      "quote": "Programmers are constantly making things more complicated than they need to be because future self will figure it out.",
+      "author": "Unknown"
+    },
+    {
+      "id": 1000,
+      "quote": "The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.",
+      "author": "Edsger Dijkstra"
+    }
+  ]
+}
